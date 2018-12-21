@@ -1,0 +1,10 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\bin\Debug\netcoreapp2.1\05TeamworkProjects.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\05TeamworkProjects\obj\Debug\netcoreapp2.1\05TeamworkProjects.pdb

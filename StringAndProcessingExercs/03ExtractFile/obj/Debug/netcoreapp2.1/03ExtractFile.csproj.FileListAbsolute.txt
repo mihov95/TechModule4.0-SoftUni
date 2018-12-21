@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\bin\Debug\netcoreapp2.1\03ExtractFile.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\bin\Debug\netcoreapp2.1\03ExtractFile.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\bin\Debug\netcoreapp2.1\03ExtractFile.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\bin\Debug\netcoreapp2.1\03ExtractFile.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\bin\Debug\netcoreapp2.1\03ExtractFile.pdb
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\03ExtractFile\obj\Debug\netcoreapp2.1\03ExtractFile.pdb

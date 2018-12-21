@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\bin\Debug\netcoreapp2.1\02CharacterMultiplier.pdb
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\02CharacterMultiplier\obj\Debug\netcoreapp2.1\02CharacterMultiplier.pdb

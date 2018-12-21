@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChar.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChar.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChar.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChar.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\bin\Debug\netcoreapp2.1\06ReplaceRepeatingChar.pdb
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\06ReplaceRepeatingChar\obj\Debug\netcoreapp2.1\06ReplaceRepeatingChar.pdb

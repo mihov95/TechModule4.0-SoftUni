@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\bin\Debug\netcoreapp2.1\01DayOfWeek.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\01DayOfWeek\obj\Debug\netcoreapp2.1\01DayOfWeek.pdb

@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\02Articles.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\02Articles.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\02Articles.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\02Articles.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\02Articles.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\02Articles.pdb

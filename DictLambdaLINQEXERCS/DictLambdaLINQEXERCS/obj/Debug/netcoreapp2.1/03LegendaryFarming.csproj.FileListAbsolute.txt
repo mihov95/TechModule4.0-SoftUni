@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\bin\Debug\netcoreapp2.1\03LegendaryFarming.deps.json
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\bin\Debug\netcoreapp2.1\03LegendaryFarming.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\bin\Debug\netcoreapp2.1\03LegendaryFarming.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\bin\Debug\netcoreapp2.1\03LegendaryFarming.dll
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\bin\Debug\netcoreapp2.1\03LegendaryFarming.pdb
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.dll
+E:\Projects\SoftUni\TechModule4.0\DictLambdaLINQEXERCS\DictLambdaLINQEXERCS\obj\Debug\netcoreapp2.1\03LegendaryFarming.pdb

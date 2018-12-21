@@ -1,0 +1,10 @@
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\bin\Debug\netcoreapp2.1\03Substring.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\bin\Debug\netcoreapp2.1\03Substring.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\bin\Debug\netcoreapp2.1\03Substring.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\bin\Debug\netcoreapp2.1\03Substring.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\bin\Debug\netcoreapp2.1\03Substring.pdb
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\obj\Debug\netcoreapp2.1\03Substring.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\obj\Debug\netcoreapp2.1\03Substring.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\obj\Debug\netcoreapp2.1\03Substring.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\obj\Debug\netcoreapp2.1\03Substring.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\03Substring\obj\Debug\netcoreapp2.1\03Substring.pdb

@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\01AdvertismentMessage.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\01AdvertismentMessage.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\01AdvertismentMessage.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\01AdvertismentMessage.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\bin\Debug\netcoreapp2.1\01AdvertismentMessage.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles\obj\Debug\netcoreapp2.1\01AdvertismentMessage.pdb

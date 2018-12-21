@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\bin\Debug\netcoreapp2.1\01ValidUsernames.pdb
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.dll
+E:\Projects\SoftUni\TechModule4.0\StringAndProcessingExercs\01ValidUsernames\obj\Debug\netcoreapp2.1\01ValidUsernames.pdb

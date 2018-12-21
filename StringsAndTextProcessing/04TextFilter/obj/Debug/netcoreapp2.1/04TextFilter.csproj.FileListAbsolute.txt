@@ -1,0 +1,10 @@
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\bin\Debug\netcoreapp2.1\04TextFilter.pdb
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\04TextFilter\obj\Debug\netcoreapp2.1\04TextFilter.pdb

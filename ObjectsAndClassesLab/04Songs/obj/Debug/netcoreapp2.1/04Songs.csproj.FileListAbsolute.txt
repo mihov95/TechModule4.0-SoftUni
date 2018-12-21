@@ -1,0 +1,10 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\bin\Debug\netcoreapp2.1\04Songs.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\bin\Debug\netcoreapp2.1\04Songs.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\bin\Debug\netcoreapp2.1\04Songs.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\bin\Debug\netcoreapp2.1\04Songs.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\bin\Debug\netcoreapp2.1\04Songs.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\obj\Debug\netcoreapp2.1\04Songs.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\obj\Debug\netcoreapp2.1\04Songs.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\obj\Debug\netcoreapp2.1\04Songs.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\obj\Debug\netcoreapp2.1\04Songs.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesLab\04Songs\obj\Debug\netcoreapp2.1\04Songs.pdb

@@ -1,0 +1,10 @@
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\bin\Debug\netcoreapp2.1\02Articles1.deps.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\bin\Debug\netcoreapp2.1\02Articles1.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\bin\Debug\netcoreapp2.1\02Articles1.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\bin\Debug\netcoreapp2.1\02Articles1.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\bin\Debug\netcoreapp2.1\02Articles1.pdb
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\obj\Debug\netcoreapp2.1\02Articles1.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\obj\Debug\netcoreapp2.1\02Articles1.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\obj\Debug\netcoreapp2.1\02Articles1.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\obj\Debug\netcoreapp2.1\02Articles1.dll
+E:\Projects\SoftUni\TechModule4.0\ObjectsAndClassesExercs\02Articles1\obj\Debug\netcoreapp2.1\02Articles1.pdb

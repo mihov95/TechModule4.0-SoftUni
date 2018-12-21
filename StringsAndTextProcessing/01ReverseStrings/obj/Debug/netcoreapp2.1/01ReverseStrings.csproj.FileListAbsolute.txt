@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\bin\Debug\netcoreapp2.1\01ReverseStrings.pdb
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\01ReverseStrings\obj\Debug\netcoreapp2.1\01ReverseStrings.pdb

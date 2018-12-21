@@ -1,0 +1,11 @@
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.deps.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.runtimeconfig.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.runtimeconfig.dev.json
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\bin\Debug\netcoreapp2.1\02RepeatStrings.pdb
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.csprojAssemblyReference.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.csproj.CoreCompileInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.AssemblyInfoInputs.cache
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.AssemblyInfo.cs
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.dll
+E:\Projects\SoftUni\TechModule4.0\StringsAndTextProcessing\02RepeatStrings\obj\Debug\netcoreapp2.1\02RepeatStrings.pdb
